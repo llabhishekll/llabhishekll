@@ -1,0 +1,33 @@
+https://carbon.now.sh/
+
+---
+Welcome to https://github.com/llabhishekll
+Last login: 26 Jun 2023, 15:30:32
+
+llabhishekll@github:~$ whoami
+Abhishek Verma (Data Scientist | Roboticist) experience=5y, local=Asia/Delhi
+  a passionate computer programmer [opensource=true, npc=false]
+
+llabhishekll@github:~$ cd user/llabhishekll/skills && tree .
+.
+├── robotics
+│   ├── ros2.cpp
+│   ├── gazebo
+│   └── reinforcement-learning.py 
+└── data-science
+    ├── machine-learning.py
+    └── deep-learning.py
+    
+llabhishekll@github:~$ git status
+User contributed to 5 repositories ##############
+Recent activity
+     31 repositories created
+      1 repository sponsored
+     92 followers
+     
+llabhishekll@github:~$ git pull github/contact
+remote: Website  : llabhishekll.github.io
+remote: LinkedIn : linkedin.com/in/verma-abhishek
+
+Connection reset by 192.168.0.1
+---
